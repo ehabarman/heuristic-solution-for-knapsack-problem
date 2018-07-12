@@ -1,0 +1,6 @@
+total weight = 25
+total value = 1170
+items selected = 3
+sort time = 0.001
+iterations time = 0.007
+___________________________________
